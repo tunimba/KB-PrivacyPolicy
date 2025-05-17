@@ -1,4 +1,5 @@
-Privacy Policy Effective Date: [18.05.2025]
+Privacy Policy 
+Effective Date: [18.05.2025]
 
 At Kids Bible, we prioritize your child's privacy and safety. This Privacy Policy explains how we collect, use, and protect personal information when you use our application.
 
