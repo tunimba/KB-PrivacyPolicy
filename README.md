@@ -1,4 +1,4 @@
-""# Privacy Policy Effective Date: [18.05.2025]
+Privacy Policy Effective Date: [18.05.2025]
 
 At Kids Bible, we prioritize your child's privacy and safety. This Privacy Policy explains how we collect, use, and protect personal information when you use our application.
 
@@ -30,7 +30,7 @@ Understand what data is collected and how it is used.
 
 Request information about the data sent to ChatGPT during story creation.
 
-To exercise these rights, please contact us at [Insert Contact Information].
+To exercise these rights, please contact us.
 
 Third-Party Services
 
@@ -44,8 +44,6 @@ Contact Us
 
 If you have any questions or concerns about our Privacy Policy, please contact us at:
 
-Email: [Insert Email Address]
+Email: [app.kidsbible@gmail.com]
 
-Address: [Insert Physical Address]
-
-We are committed to providing a safe and joyful Bible experience for every child, while ensuring their information is protected.""
+We are committed to providing a safe and joyful Bible experience for every child, while ensuring their information is protected.
